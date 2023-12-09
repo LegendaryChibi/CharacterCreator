@@ -13,4 +13,4 @@ Character creation can be done by inheriting the base CharacterType and adding e
 
 ## Purpose
 
-The purpose of this project is to convey understanding of object oriented principles in C++. As a game programmer, a good grasp of C++ classes and class structure is essential to beginning to understand C++ which is why I made this project.
+The purpose of this project is to convey understanding of object oriented principles in C++. As a game programmer, a good grasp of C++ classes and class structure is essential to understanding C++ which is why I made this project.
