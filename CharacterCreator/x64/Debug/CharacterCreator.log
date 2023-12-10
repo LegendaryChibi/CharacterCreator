@@ -1,0 +1,7 @@
+﻿  CharacterType.cpp
+  DateType.cpp
+  DruidType.cpp
+  main.cpp
+C:\Users\Joshua Varghese\Documents\GitHub\Assignment5StartPoint\Assignment5StartPoint\main.cpp(9,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  CharacterCreator.vcxproj -> C:\Users\Joshua Varghese\Documents\GitHub\CharacterCreator\x64\Debug\CharacterCreator.exe
